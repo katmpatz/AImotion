@@ -7,10 +7,11 @@ A facial emotion recognition machine learning tool that aids psychologists in th
 ### Description
 This tool is designed to enable psychologists to leverage machine learning technologies (in this case emotional recognition) and incorporate them into their daily work.
 
-
-
-
 ### Design
+
+![alt text](https://github.com/katmpatz/AImotion/blob/master/img1.JPG)
+
+![alt text](https://github.com/katmpatz/AImotion/blob/master/img2.JPG)
 
 ### Implementation
 
